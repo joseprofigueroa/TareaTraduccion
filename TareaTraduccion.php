@@ -8,7 +8,7 @@
 
 //------------------------------ Stack ------------------------------\\
 
-$stack = array("1","2");
+$stack = array("5","10");
 
 function add($value) {
     global $stack;
